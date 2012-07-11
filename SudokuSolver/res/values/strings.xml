@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="hello">Hello to Yo Face</string>
-    <string name="app_name">SudokuSolver</string>
+    <string name="app_name">Sudoku Solver</string>
+    <string name="input_sudoku">Input a Sudoku</string>
+    <string name="solve_sudoku">Solve a Sudoku</string>
 
 </resources>
